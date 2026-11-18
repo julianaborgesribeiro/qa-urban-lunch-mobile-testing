@@ -1,4 +1,4 @@
-Urban Lunch – Testes Mobile
+Projeto - Urban Lunch – Testes Mobile
 
 1. Sobre o projeto: Projeto desenvolvido durante a formação em QA pela TripleTen, com foco nos testes do aplicativo Android Urban Lunch, utilizado para realizar pedidos de refeições e selecionar pontos de coleta.
 
